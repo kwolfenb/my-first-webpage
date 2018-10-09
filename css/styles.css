@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  font-weight: lighter;
+  font-family: fantasy;
+  line-height: 1.2;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
