@@ -15,12 +15,6 @@ _This is a detailed description of your application. Its purpose and usage.  Giv
 * _Open my-first-webpage.html in Google Chrome_
 
 
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-
 ## Technologies Used
 
 _Created using HTML, Git and Github_
