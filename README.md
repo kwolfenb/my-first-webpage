@@ -23,4 +23,4 @@ _Created using HTML, Git and Github_
 
 *Created using the MIT license*
 
-Copyright (c) 2016 **_Kenny WOlfenberger and Stuart Gill_**
+Copyright (c) 2016 **_Kenny Wofenberger and Stuart Gill_**
